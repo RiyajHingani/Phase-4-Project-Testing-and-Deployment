@@ -21,7 +21,7 @@
     },
     "resourceName": {
       "type": "string",
-      "defaultValue": "PizzaHub20220729181928",
+      "defaultValue": "PizzaHub20220730160354",
       "metadata": {
         "description": "Name of the main resource to be created by this template."
       }
